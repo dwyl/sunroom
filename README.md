@@ -1,11 +1,36 @@
-# fuel
+# Sunroom
 
-> “***Eat to live***, ***don't live to eat***.” ~ Benjamin Franklin
+All the details 
+for designing and building 
+the `Sunroom` 
+[`@home`](https://github.com/dwyl/home/). 
 
-## Why?
+# Why?
 
-Most people in western society eat mindlessly and wonder why they don't fell very well... lets fix that.
+We wanted a _covered_ but _outdoor_ space
+filled with **_natural_ light**, **fresh air** and **nature/plants**
+where we could sit and read, work or socialize.
 
-## What?
 
-What are the foods we eat for "pleasure" which are ultimately bad for us and provide little to no fuel for our bodies?
+# What?
+
+An outdoor multi-purpose multi-level room.
+
+# Who?
+
+Available to people staying at / visiting 
+[`@home`](https://github.com/dwyl/home/).
+
+# Where?
+
+The
+[`@home`](https://github.com/dwyl/home/).
+south garden. 
+# When?
+
+Re-design in-progress.
+
+
+# _How_? 
+
+Please see the 3D renders for more detail of the _current_ design. 
